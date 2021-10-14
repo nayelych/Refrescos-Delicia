@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 246, 127);
+}
+
+.sec1{
+    padding-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 500px;
+
+}
+
+h1{
+    margin-left: 400px;
+}
+
+.navigator ul{
+ 
+ 
+    margin: 0;
+    padding: 10px 30px;
+    list-style: none;
+    background-color: rgb(19, 135, 230);
+}
+
+.navigator ul li{
+
+    display:inline-block ;
+}
+
+.navigator ul li a{
+padding: 0.5rem;
+transition: all 0.7s linear;
+border-radius: 5px;
+
+}
+
+.navigator ul li a:hover{
+background: #4a4a4a;
+
+}
+
